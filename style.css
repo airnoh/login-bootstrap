@@ -1,0 +1,15 @@
+body {
+    background-color: rgba(60, 108, 150, 0.712);
+}
+
+.login {
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.input2::placeholder { 
+    color: white;
+}
+
+.pink {
+    background-color: rgba(238, 38, 71, 0.993);
+}
